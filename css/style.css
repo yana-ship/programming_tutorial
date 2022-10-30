@@ -95,7 +95,6 @@ title{
     margin: auto;
     background: #646464;
     color: white;
-    width: 60%;
     border-radius: 0 4px 4px 0;
     animation: graphAnimation 2s forwards;
 }
@@ -109,17 +108,20 @@ title{
 }
 .graph .graph-content.content-1{
     bottom: 275px;
+    width: 92%;
+    overflow: visible;
 }
 .graph .graph-content.content-2 {
     bottom: 200px;
+    width: 20%;
 }
 .graph .graph-content.content-3 {
     bottom: 125px;
-    width: 40%;
+    width:83%;
 }
 .graph .graph-content.content-4 {
     bottom: 50px;
-    width: 40%
+    width: 50%;
 }
 /* CONTACT */
 .contact{
